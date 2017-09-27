@@ -1,0 +1,1 @@
+git commit -m "Adding current content to repository"
