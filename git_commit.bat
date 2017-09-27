@@ -1,1 +1,1 @@
-git commit -m "Moving current content from Staging Area to Repository"
+git commit -m "Current content has been moved from the staging area to the local repository"
