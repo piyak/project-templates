@@ -1,1 +1,1 @@
-git commit -m "Adding current content to repository"
+git commit -m "Moving current content from Staging Area to Repository"
